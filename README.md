@@ -1,0 +1,1 @@
+Airline reservation system is widely used database system in the world. It is an example of transaction processing systems. Transaction processing systems are systems with large databases and hundreds of concurrent users executing database transactions. These systems should be highly available, and the latency should be low for the hundreds of users accessing it concurrently
